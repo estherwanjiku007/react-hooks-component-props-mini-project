@@ -3,6 +3,7 @@ import blogData from "../data/blog";
 import About from "./About";
 import Header from "./Header";
 import ArticleList from "./ArticleList";
+import Header from "./Header";
 console.log(blogData.name);
 
 function App() {

@@ -3,7 +3,9 @@ function Header({name}){
     console.log(name)
   return(
     <div>
-    <h1>{name}</h1>
+      <header>
+        <h1>{name}</h1>
+      </header>
     </div>
   )
   }

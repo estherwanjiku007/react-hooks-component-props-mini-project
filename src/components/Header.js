@@ -1,6 +1,6 @@
 import React from "react"
 function Header({name}){
-    console.log(name)
+   // console.log(name)
   return(
     <div>
       <header>
